@@ -18,7 +18,7 @@ A ser desenvolvido.
 
 ## Estrutura do Repositório
 ```text
-projeto-enchentes/
+projeto-enchentes-TF/
 ├── README.md # equipe, link do dashboard, como rodar
 ├── requirements.txt
 ├── dados/
