@@ -4,6 +4,8 @@ Projeto extensionista desenvolvido para a disciplina de Coleta, Preparação e A
 
 O objetivo deste projeto é propor uma solução interativa, em dashboard, para visualizar dados de simulação de enchentes no Rio Guaíba, em Porto Alegre - RS.
 
+Tela 2: A partir de qual nível de alagamento simulado as casas de bomba da cidade deixam de funcionar?
+
 ## Equipe
 * Amanda Flores Domeneghini
 * Milena Fontana Bregalda
