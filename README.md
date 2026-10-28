@@ -1,6 +1,6 @@
 # Dashboard de Enchentes em Porto Alegre — INCT SiMAI
 
-Projeto extensionista desenvolvido para a disciplina de Coleta, Preparação e Análise de Dados da PUCRS (turma 310/110, grupo @ A SER DECIDIDO), em parceria com o INCT SiMAI.
+Projeto extensionista desenvolvido para a disciplina de Coleta, Preparação e Análise de Dados da PUCRS (turma 310/110, grupo 8), em parceria com o INCT SiMAI.
 
 O objetivo deste projeto é propor uma solução interativa, em dashboard, para visualizar dados de simulação de enchentes no Rio Guaíba, em Porto Alegre - RS.
 
