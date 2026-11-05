@@ -1,0 +1,939 @@
+{
+    "hasZ": false,
+    "features": [
+        {
+            "attributes": {
+                "fid": 1,
+                "gx_media_l": " ",
+                "configura_": " ",
+                "visibility": -1,
+                "tessellate": -1,
+                "icon": " ",
+                "f__rea_prot": " ",
+                "capacidade": " ",
+                "draworder": 0,
+                "end_": " ",
+                "endere__o": " ",
+                "local": " ",
+                "street_vie": " ",
+                "descri____": " ",
+                "descriptio": "Local: <br>Área Protegida: <br>Seção Responsável Operação: <br>descrição: <br>Área Contribuinte (km2): <br>Capacidade (m3 /s): <br>Configuração: <br>Street View: <br>Saiba mais: <br>Endereço:",
+                "extrude": 0,
+                "name": "CB-2",
+                "f__rea_cont": " ",
+                "begin": " ",
+                "se____o_re": " ",
+                "saiba_mais": " ",
+                "timestamp": " ",
+                "altitudemo": " "
+            },
+            "geometry": {
+                "x": -51.2143618,
+                "y": -30.0160068
+            }
+        },
+        {
+            "attributes": {
+                "fid": 2,
+                "gx_media_l": " ",
+                "configura_": " ",
+                "visibility": -1,
+                "tessellate": -1,
+                "icon": " ",
+                "f__rea_prot": " ",
+                "capacidade": " ",
+                "draworder": 0,
+                "end_": " ",
+                "endere__o": " ",
+                "local": " ",
+                "street_vie": " ",
+                "descri____": " ",
+                "descriptio": "Local: <br>Área Protegida: <br>Seção Responsável Operação: <br>descrição: <br>Área Contribuinte (km2): <br>Capacidade (m3 /s): <br>Configuração: <br>Street View: <br>Saiba mais: <br>Endereço:",
+                "extrude": 0,
+                "name": "CB-3",
+                "f__rea_cont": " ",
+                "begin": " ",
+                "se____o_re": " ",
+                "saiba_mais": " ",
+                "timestamp": " ",
+                "altitudemo": " "
+            },
+            "geometry": {
+                "x": -51.21035207,
+                "y": -30.00869724
+            }
+        },
+        {
+            "attributes": {
+                "fid": 3,
+                "gx_media_l": " ",
+                "configura_": " ",
+                "visibility": -1,
+                "tessellate": -1,
+                "icon": " ",
+                "f__rea_prot": " ",
+                "capacidade": " ",
+                "draworder": 0,
+                "end_": " ",
+                "endere__o": " ",
+                "local": " ",
+                "street_vie": " ",
+                "descri____": " ",
+                "descriptio": "Local: <br>Área Protegida: <br>Seção Responsável Operação: <br>descrição: <br>Área Contribuinte (km2): <br>Capacidade (m3 /s): <br>Configuração: <br>Street View: <br>Saiba mais: <br>Endereço:",
+                "extrude": 0,
+                "name": "CB-4",
+                "f__rea_cont": " ",
+                "begin": " ",
+                "se____o_re": " ",
+                "saiba_mais": " ",
+                "timestamp": " ",
+                "altitudemo": " "
+            },
+            "geometry": {
+                "x": -51.2076731,
+                "y": -30.00206331
+            }
+        },
+        {
+            "attributes": {
+                "fid": 4,
+                "gx_media_l": " ",
+                "configura_": " ",
+                "visibility": -1,
+                "tessellate": -1,
+                "icon": " ",
+                "f__rea_prot": " ",
+                "capacidade": " ",
+                "draworder": 0,
+                "end_": " ",
+                "endere__o": " ",
+                "local": " ",
+                "street_vie": " ",
+                "descri____": " ",
+                "descriptio": "Local: <br>Área Protegida: <br>Seção Responsável Operação: <br>descrição: <br>Área Contribuinte (km2): <br>Capacidade (m3 /s): <br>Configuração: <br>Street View: <br>Saiba mais: <br>Endereço:",
+                "extrude": 0,
+                "name": "CB-5",
+                "f__rea_cont": " ",
+                "begin": " ",
+                "se____o_re": " ",
+                "saiba_mais": " ",
+                "timestamp": " ",
+                "altitudemo": " "
+            },
+            "geometry": {
+                "x": -51.20123997,
+                "y": -29.98200931
+            }
+        },
+        {
+            "attributes": {
+                "fid": 5,
+                "gx_media_l": " ",
+                "configura_": " ",
+                "visibility": -1,
+                "tessellate": -1,
+                "icon": " ",
+                "f__rea_prot": " ",
+                "capacidade": " ",
+                "draworder": 0,
+                "end_": " ",
+                "endere__o": " ",
+                "local": " ",
+                "street_vie": " ",
+                "descri____": " ",
+                "descriptio": "Local: <br>Área Protegida: <br>Seção Responsável Operação: <br>descrição: <br>Área Contribuinte (km2): <br>Capacidade (m3 /s): <br>Configuração: <br>Street View: <br>Saiba mais: <br>Endereço:",
+                "extrude": 0,
+                "name": "CB-6",
+                "f__rea_cont": " ",
+                "begin": " ",
+                "se____o_re": " ",
+                "saiba_mais": " ",
+                "timestamp": " ",
+                "altitudemo": " "
+            },
+            "geometry": {
+                "x": -51.17579556,
+                "y": -29.96978109
+            }
+        },
+        {
+            "attributes": {
+                "fid": 6,
+                "gx_media_l": " ",
+                "configura_": " ",
+                "visibility": -1,
+                "tessellate": -1,
+                "icon": " ",
+                "f__rea_prot": " ",
+                "capacidade": " ",
+                "draworder": 0,
+                "end_": " ",
+                "endere__o": " ",
+                "local": " ",
+                "street_vie": " ",
+                "descri____": " ",
+                "descriptio": "Local: <br>Área Protegida: <br>Seção Responsável Operação: <br>descrição: <br>Área Contribuinte (km2): <br>Capacidade (m3 /s): <br>Configuração: <br>Street View: <br>Saiba mais: <br>Endereço:",
+                "extrude": 0,
+                "name": "CB-9",
+                "f__rea_cont": " ",
+                "begin": " ",
+                "se____o_re": " ",
+                "saiba_mais": " ",
+                "timestamp": " ",
+                "altitudemo": " "
+            },
+            "geometry": {
+                "x": -51.13859103,
+                "y": -29.9680892
+            }
+        },
+        {
+            "attributes": {
+                "fid": 7,
+                "gx_media_l": " ",
+                "configura_": " ",
+                "visibility": -1,
+                "tessellate": -1,
+                "icon": " ",
+                "f__rea_prot": " ",
+                "capacidade": " ",
+                "draworder": 0,
+                "end_": " ",
+                "endere__o": " ",
+                "local": " ",
+                "street_vie": " ",
+                "descri____": " ",
+                "descriptio": "Local: <br>Área Protegida: <br>Seção Responsável Operação: <br>descrição: <br>Área Contribuinte (km2): <br>Capacidade (m3 /s): <br>Configuração: <br>Street View: <br>Saiba mais: <br>Endereço:",
+                "extrude": 0,
+                "name": "CB-11B",
+                "f__rea_cont": " ",
+                "begin": " ",
+                "se____o_re": " ",
+                "saiba_mais": " ",
+                "timestamp": " ",
+                "altitudemo": " "
+            },
+            "geometry": {
+                "x": -51.24266021,
+                "y": -30.09227146
+            }
+        },
+        {
+            "attributes": {
+                "fid": 8,
+                "gx_media_l": " ",
+                "configura_": " ",
+                "visibility": -1,
+                "tessellate": -1,
+                "icon": " ",
+                "f__rea_prot": " ",
+                "capacidade": " ",
+                "draworder": 0,
+                "end_": " ",
+                "endere__o": " ",
+                "local": " ",
+                "street_vie": " ",
+                "descri____": " ",
+                "descriptio": "Local: <br>Área Protegida: <br>Seção Responsável Operação: <br>descrição: <br>Área Contribuinte (km2): <br>Capacidade (m3 /s): <br>Configuração: <br>Street View: <br>Saiba mais: <br>Endereço:",
+                "extrude": 0,
+                "name": "CB-12",
+                "f__rea_cont": " ",
+                "begin": " ",
+                "se____o_re": " ",
+                "saiba_mais": " ",
+                "timestamp": " ",
+                "altitudemo": " "
+            },
+            "geometry": {
+                "x": -51.23601025,
+                "y": -30.06140262
+            }
+        },
+        {
+            "attributes": {
+                "fid": 9,
+                "gx_media_l": " ",
+                "configura_": " ",
+                "visibility": -1,
+                "tessellate": -1,
+                "icon": " ",
+                "f__rea_prot": " ",
+                "capacidade": " ",
+                "draworder": 0,
+                "end_": " ",
+                "endere__o": " ",
+                "local": " ",
+                "street_vie": " ",
+                "descri____": " ",
+                "descriptio": "Local: <br>Área Protegida: <br>Seção Responsável Operação: <br>descrição: <br>Área Contribuinte (km2): <br>Capacidade (m3 /s): <br>Configuração: <br>Street View: <br>Saiba mais: <br>Endereço:",
+                "extrude": 0,
+                "name": "CB-13",
+                "f__rea_cont": " ",
+                "begin": " ",
+                "se____o_re": " ",
+                "saiba_mais": " ",
+                "timestamp": " ",
+                "altitudemo": " "
+            },
+            "geometry": {
+                "x": -51.23204012,
+                "y": -30.05458962
+            }
+        },
+        {
+            "attributes": {
+                "fid": 10,
+                "gx_media_l": " ",
+                "configura_": " ",
+                "visibility": -1,
+                "tessellate": -1,
+                "icon": " ",
+                "f__rea_prot": " ",
+                "capacidade": " ",
+                "draworder": 0,
+                "end_": " ",
+                "endere__o": " ",
+                "local": " ",
+                "street_vie": " ",
+                "descri____": " ",
+                "descriptio": "Local: <br>Área Protegida: <br>Seção Responsável Operação: <br>descrição: <br>Área Contribuinte (km2): <br>Capacidade (m3 /s): <br>Configuração: <br>Street View: <br>Saiba mais: <br>Endereço:",
+                "extrude": 0,
+                "name": "CB-14",
+                "f__rea_cont": " ",
+                "begin": " ",
+                "se____o_re": " ",
+                "saiba_mais": " ",
+                "timestamp": " ",
+                "altitudemo": " "
+            },
+            "geometry": {
+                "x": -51.2152252,
+                "y": -30.0481524
+            }
+        },
+        {
+            "attributes": {
+                "fid": 11,
+                "gx_media_l": " ",
+                "configura_": " ",
+                "visibility": -1,
+                "tessellate": -1,
+                "icon": " ",
+                "f__rea_prot": " ",
+                "capacidade": " ",
+                "draworder": 0,
+                "end_": " ",
+                "endere__o": " ",
+                "local": " ",
+                "street_vie": " ",
+                "descri____": " ",
+                "descriptio": "Local: <br>Área Protegida: <br>Seção Responsável Operação: <br>descrição: <br>Área Contribuinte (km2): <br>Capacidade (m3 /s): <br>Configuração: <br>Street View: <br>Saiba mais: <br>Endereço:",
+                "extrude": 0,
+                "name": "CB-17",
+                "f__rea_cont": " ",
+                "begin": " ",
+                "se____o_re": " ",
+                "saiba_mais": " ",
+                "timestamp": " ",
+                "altitudemo": " "
+            },
+            "geometry": {
+                "x": -51.23664758,
+                "y": -30.03029118
+            }
+        },
+        {
+            "attributes": {
+                "fid": 12,
+                "gx_media_l": " ",
+                "configura_": " ",
+                "visibility": -1,
+                "tessellate": -1,
+                "icon": " ",
+                "f__rea_prot": " ",
+                "capacidade": " ",
+                "draworder": 0,
+                "end_": " ",
+                "endere__o": " ",
+                "local": " ",
+                "street_vie": " ",
+                "descri____": " ",
+                "descriptio": "Local: <br>Área Protegida: <br>Seção Responsável Operação: <br>descrição: <br>Área Contribuinte (km2): <br>Capacidade (m3 /s): <br>Configuração: <br>Street View: <br>Saiba mais: <br>Endereço:",
+                "extrude": 0,
+                "name": "CB-18",
+                "f__rea_cont": " ",
+                "begin": " ",
+                "se____o_re": " ",
+                "saiba_mais": " ",
+                "timestamp": " ",
+                "altitudemo": " "
+            },
+            "geometry": {
+                "x": -51.22335641,
+                "y": -30.02449429
+            }
+        },
+        {
+            "attributes": {
+                "fid": 13,
+                "gx_media_l": " ",
+                "configura_": " ",
+                "visibility": -1,
+                "tessellate": -1,
+                "icon": " ",
+                "f__rea_prot": " ",
+                "capacidade": " ",
+                "draworder": 0,
+                "end_": " ",
+                "endere__o": " ",
+                "local": " ",
+                "street_vie": " ",
+                "descri____": " ",
+                "descriptio": "Local: <br>Área Protegida: <br>Seção Responsável Operação: <br>descrição: <br>Área Contribuinte (km2): <br>Capacidade (m3 /s): <br>Configuração: <br>Street View: <br>Saiba mais: <br>Endereço:",
+                "extrude": 0,
+                "name": "CB-Trensurb",
+                "f__rea_cont": " ",
+                "begin": " ",
+                "se____o_re": " ",
+                "saiba_mais": " ",
+                "timestamp": " ",
+                "altitudemo": " "
+            },
+            "geometry": {
+                "x": -51.2061194,
+                "y": -29.9979943
+            }
+        },
+        {
+            "attributes": {
+                "fid": 14,
+                "gx_media_l": " ",
+                "configura_": " ",
+                "visibility": -1,
+                "tessellate": -1,
+                "icon": " ",
+                "f__rea_prot": " ",
+                "capacidade": " ",
+                "draworder": 0,
+                "end_": " ",
+                "endere__o": " ",
+                "local": " ",
+                "street_vie": " ",
+                "descri____": " ",
+                "descriptio": "Local: <br>Área Protegida: <br>Seção Responsável Operação: <br>descrição: <br>Área Contribuinte (km2): <br>Capacidade (m3 /s): <br>Configuração: <br>Street View: <br>Saiba mais: <br>Endereço:",
+                "extrude": 0,
+                "name": "CB-Vila Farrapos",
+                "f__rea_cont": " ",
+                "begin": " ",
+                "se____o_re": " ",
+                "saiba_mais": " ",
+                "timestamp": " ",
+                "altitudemo": " "
+            },
+            "geometry": {
+                "x": -51.19751902,
+                "y": -29.98264337
+            }
+        },
+        {
+            "attributes": {
+                "fid": 15,
+                "gx_media_l": " ",
+                "configura_": " ",
+                "visibility": -1,
+                "tessellate": -1,
+                "icon": " ",
+                "f__rea_prot": " ",
+                "capacidade": " ",
+                "draworder": 0,
+                "end_": " ",
+                "endere__o": " ",
+                "local": " ",
+                "street_vie": " ",
+                "descri____": " ",
+                "descriptio": "Local: <br>Área Protegida: <br>Seção Responsável Operação: <br>descrição: <br>Área Contribuinte (km2): <br>Capacidade (m3 /s): <br>Configuração: <br>Street View: <br>Saiba mais: <br>Endereço:",
+                "extrude": 0,
+                "name": "CB-Minuano",
+                "f__rea_cont": " ",
+                "begin": " ",
+                "se____o_re": " ",
+                "saiba_mais": " ",
+                "timestamp": " ",
+                "altitudemo": " "
+            },
+            "geometry": {
+                "x": -51.13964174,
+                "y": -29.99071379
+            }
+        },
+        {
+            "attributes": {
+                "fid": 16,
+                "gx_media_l": " ",
+                "configura_": " ",
+                "visibility": -1,
+                "tessellate": -1,
+                "icon": " ",
+                "f__rea_prot": " ",
+                "capacidade": " ",
+                "draworder": 0,
+                "end_": " ",
+                "endere__o": " ",
+                "local": " ",
+                "street_vie": " ",
+                "descri____": " ",
+                "descriptio": "Local: <br>Área Protegida: <br>Seção Responsável Operação: <br>descrição: <br>Área Contribuinte (km2): <br>Capacidade (m3 /s): <br>Configuração: <br>Street View: <br>Saiba mais: <br>Endereço:",
+                "extrude": 0,
+                "name": "CB-15",
+                "f__rea_cont": " ",
+                "begin": " ",
+                "se____o_re": " ",
+                "saiba_mais": " ",
+                "timestamp": " ",
+                "altitudemo": " "
+            },
+            "geometry": {
+                "x": -51.21943791,
+                "y": -30.04780381
+            }
+        },
+        {
+            "attributes": {
+                "fid": 17,
+                "gx_media_l": " ",
+                "configura_": " ",
+                "visibility": -1,
+                "tessellate": -1,
+                "icon": " ",
+                "f__rea_prot": " ",
+                "capacidade": " ",
+                "draworder": 0,
+                "end_": " ",
+                "endere__o": " ",
+                "local": " ",
+                "street_vie": " ",
+                "descri____": " ",
+                "descriptio": "Local: <br>Área Protegida: <br>Seção Responsável Operação: <br>descrição: <br>Área Contribuinte (km2): <br>Capacidade (m3 /s): <br>Configuração: <br>Street View: <br>Saiba mais: <br>Endereço:",
+                "extrude": 0,
+                "name": "CB-10",
+                "f__rea_cont": " ",
+                "begin": " ",
+                "se____o_re": " ",
+                "saiba_mais": " ",
+                "timestamp": " ",
+                "altitudemo": " "
+            },
+            "geometry": {
+                "x": -51.13786683,
+                "y": -29.97808058
+            }
+        },
+        {
+            "attributes": {
+                "fid": 18,
+                "gx_media_l": " ",
+                "configura_": " ",
+                "visibility": -1,
+                "tessellate": -1,
+                "icon": " ",
+                "f__rea_prot": " ",
+                "capacidade": " ",
+                "draworder": 0,
+                "end_": " ",
+                "endere__o": " ",
+                "local": " ",
+                "street_vie": " ",
+                "descri____": " ",
+                "descriptio": "Local: <br>Área Protegida: <br>Seção Responsável Operação: <br>descrição: <br>Área Contribuinte (km2): <br>Capacidade (m3 /s): <br>Configuração: <br>Street View: <br>Saiba mais: <br>Endereço:",
+                "extrude": 0,
+                "name": "CB-Silvio Brum",
+                "f__rea_cont": " ",
+                "begin": " ",
+                "se____o_re": " ",
+                "saiba_mais": " ",
+                "timestamp": " ",
+                "altitudemo": " "
+            },
+            "geometry": {
+                "x": -51.17185701,
+                "y": -30.00282405
+            }
+        },
+        {
+            "attributes": {
+                "fid": 19,
+                "gx_media_l": " ",
+                "configura_": " ",
+                "visibility": -1,
+                "tessellate": -1,
+                "icon": " ",
+                "f__rea_prot": " ",
+                "capacidade": " ",
+                "draworder": 0,
+                "end_": " ",
+                "endere__o": " ",
+                "local": " ",
+                "street_vie": " ",
+                "descri____": " ",
+                "descriptio": "Local: <br>Área Protegida: <br>Seção Responsável Operação: <br>descrição: <br>Área Contribuinte (km2): <br>Capacidade (m3 /s): <br>Configuração: <br>Street View: <br>Saiba mais: <br>Endereço:",
+                "extrude": 0,
+                "name": "CB-16",
+                "f__rea_cont": " ",
+                "begin": " ",
+                "se____o_re": " ",
+                "saiba_mais": " ",
+                "timestamp": " ",
+                "altitudemo": " "
+            },
+            "geometry": {
+                "x": -51.23248524,
+                "y": -30.04322136
+            }
+        },
+        {
+            "attributes": {
+                "fid": 20,
+                "gx_media_l": " ",
+                "configura_": " ",
+                "visibility": -1,
+                "tessellate": -1,
+                "icon": " ",
+                "f__rea_prot": " ",
+                "capacidade": " ",
+                "draworder": 0,
+                "end_": " ",
+                "endere__o": " ",
+                "local": " ",
+                "street_vie": " ",
+                "descri____": " ",
+                "descriptio": "Local: <br>Área Protegida: <br>Seção Responsável Operação: <br>descrição: <br>Área Contribuinte (km2): <br>Capacidade (m3 /s): <br>Configuração: <br>Street View: <br>Saiba mais: <br>Endereço:",
+                "extrude": 0,
+                "name": "CB-1",
+                "f__rea_cont": " ",
+                "begin": " ",
+                "se____o_re": " ",
+                "saiba_mais": " ",
+                "timestamp": " ",
+                "altitudemo": " "
+            },
+            "geometry": {
+                "x": -51.21599653,
+                "y": -30.01919612
+            }
+        },
+        {
+            "attributes": {
+                "fid": 21,
+                "gx_media_l": " ",
+                "configura_": " ",
+                "visibility": -9223372036854775808,
+                "tessellate": -9223372036854775808,
+                "icon": " ",
+                "f__rea_prot": " ",
+                "capacidade": " ",
+                "draworder": -9223372036854775808,
+                "end_": " ",
+                "endere__o": " ",
+                "local": " ",
+                "street_vie": " ",
+                "descri____": " ",
+                "descriptio": " ",
+                "extrude": -9223372036854775808,
+                "name": "CB ASA BRANCA",
+                "f__rea_cont": " ",
+                "begin": " ",
+                "se____o_re": " ",
+                "saiba_mais": " ",
+                "timestamp": " ",
+                "altitudemo": " "
+            },
+            "geometry": {
+                "x": -51.12238492,
+                "y": -29.97809197
+            }
+        },
+        {
+            "attributes": {
+                "fid": 22,
+                "gx_media_l": " ",
+                "configura_": " ",
+                "visibility": -9223372036854775808,
+                "tessellate": -9223372036854775808,
+                "icon": " ",
+                "f__rea_prot": " ",
+                "capacidade": " ",
+                "draworder": -9223372036854775808,
+                "end_": " ",
+                "endere__o": " ",
+                "local": " ",
+                "street_vie": " ",
+                "descri____": " ",
+                "descriptio": " ",
+                "extrude": -9223372036854775808,
+                "name": "CB TRINCHEIRA CEARÁ",
+                "f__rea_cont": " ",
+                "begin": " ",
+                "se____o_re": " ",
+                "saiba_mais": " ",
+                "timestamp": " ",
+                "altitudemo": " "
+            },
+            "geometry": {
+                "x": -51.18952925,
+                "y": -29.99619887
+            }
+        },
+        {
+            "attributes": {
+                "fid": 23,
+                "gx_media_l": " ",
+                "configura_": " ",
+                "visibility": 0,
+                "tessellate": 0,
+                "icon": " ",
+                "f__rea_prot": " ",
+                "capacidade": " ",
+                "draworder": 0,
+                "end_": " ",
+                "endere__o": " ",
+                "local": " ",
+                "street_vie": " ",
+                "descri____": " ",
+                "descriptio": " ",
+                "extrude": 0,
+                "name": "CB SANTA TEREZINHA",
+                "f__rea_cont": " ",
+                "begin": " ",
+                "se____o_re": " ",
+                "saiba_mais": " ",
+                "timestamp": " ",
+                "altitudemo": " "
+            },
+            "geometry": {
+                "x": -51.20868966,
+                "y": -30.04460742
+            }
+        },
+        {
+            "attributes": {
+                "fid": 24,
+                "gx_media_l": " ",
+                "configura_": " ",
+                "visibility": 0,
+                "tessellate": 0,
+                "icon": " ",
+                "f__rea_prot": " ",
+                "capacidade": " ",
+                "draworder": 0,
+                "end_": " ",
+                "endere__o": " ",
+                "local": " ",
+                "street_vie": " ",
+                "descri____": " ",
+                "descriptio": " ",
+                "extrude": 0,
+                "name": "CB-11A",
+                "f__rea_cont": " ",
+                "begin": " ",
+                "se____o_re": " ",
+                "saiba_mais": " ",
+                "timestamp": " ",
+                "altitudemo": " "
+            },
+            "geometry": {
+                "x": -51.24453611,
+                "y": -30.09284335
+            }
+        }
+    ],
+    "exceededTransferLimit": false,
+    "hasM": false,
+    "objectIdFieldName": "fid",
+    "fields": [
+        {
+            "defaultValue": null,
+            "length": 4,
+            "type": "esriFieldTypeOID",
+            "modelName": "fid",
+            "name": "fid",
+            "alias": "fid"
+        },
+        {
+            "modelName": "name",
+            "defaultValue": null,
+            "name": "name",
+            "length": 254,
+            "alias": "Name",
+            "type": "esriFieldTypeString"
+        },
+        {
+            "modelName": "descriptio",
+            "defaultValue": null,
+            "name": "descriptio",
+            "length": 254,
+            "alias": "descriptio",
+            "type": "esriFieldTypeString"
+        },
+        {
+            "modelName": "timestamp",
+            "defaultValue": null,
+            "name": "timestamp",
+            "length": 24,
+            "alias": "timestamp",
+            "type": "esriFieldTypeString"
+        },
+        {
+            "modelName": "begin",
+            "defaultValue": null,
+            "name": "begin",
+            "length": 24,
+            "alias": "begin",
+            "type": "esriFieldTypeString"
+        },
+        {
+            "modelName": "end_",
+            "defaultValue": null,
+            "name": "end_",
+            "length": 24,
+            "alias": "end",
+            "type": "esriFieldTypeString"
+        },
+        {
+            "modelName": "altitudemo",
+            "defaultValue": null,
+            "name": "altitudemo",
+            "length": 254,
+            "alias": "altitudeMo",
+            "type": "esriFieldTypeString"
+        },
+        {
+            "modelName": "tessellate",
+            "defaultValue": null,
+            "name": "tessellate",
+            "alias": "tessellate",
+            "type": "esriFieldTypeDouble"
+        },
+        {
+            "modelName": "extrude",
+            "defaultValue": null,
+            "name": "extrude",
+            "alias": "extrude",
+            "type": "esriFieldTypeDouble"
+        },
+        {
+            "modelName": "visibility",
+            "defaultValue": null,
+            "name": "visibility",
+            "alias": "visibility",
+            "type": "esriFieldTypeDouble"
+        },
+        {
+            "modelName": "draworder",
+            "defaultValue": null,
+            "name": "draworder",
+            "alias": "drawOrder",
+            "type": "esriFieldTypeDouble"
+        },
+        {
+            "modelName": "icon",
+            "defaultValue": null,
+            "name": "icon",
+            "length": 254,
+            "alias": "icon",
+            "type": "esriFieldTypeString"
+        },
+        {
+            "modelName": "local",
+            "defaultValue": null,
+            "name": "local",
+            "length": 254,
+            "alias": "Local",
+            "type": "esriFieldTypeString"
+        },
+        {
+            "modelName": "f__rea_prot",
+            "defaultValue": null,
+            "name": "f__rea_prot",
+            "length": 254,
+            "alias": "__rea_Prot",
+            "type": "esriFieldTypeString"
+        },
+        {
+            "modelName": "se____o_re",
+            "defaultValue": null,
+            "name": "se____o_re",
+            "length": 254,
+            "alias": "Se____o_Re",
+            "type": "esriFieldTypeString"
+        },
+        {
+            "modelName": "descri____",
+            "defaultValue": null,
+            "name": "descri____",
+            "length": 254,
+            "alias": "descri____",
+            "type": "esriFieldTypeString"
+        },
+        {
+            "modelName": "f__rea_cont",
+            "defaultValue": null,
+            "name": "f__rea_cont",
+            "length": 254,
+            "alias": "__rea_Cont",
+            "type": "esriFieldTypeString"
+        },
+        {
+            "modelName": "capacidade",
+            "defaultValue": null,
+            "name": "capacidade",
+            "length": 254,
+            "alias": "Capacidade",
+            "type": "esriFieldTypeString"
+        },
+        {
+            "modelName": "configura_",
+            "defaultValue": null,
+            "name": "configura_",
+            "length": 254,
+            "alias": "Configura_",
+            "type": "esriFieldTypeString"
+        },
+        {
+            "modelName": "street_vie",
+            "defaultValue": null,
+            "name": "street_vie",
+            "length": 254,
+            "alias": "Street_Vie",
+            "type": "esriFieldTypeString"
+        },
+        {
+            "modelName": "saiba_mais",
+            "defaultValue": null,
+            "name": "saiba_mais",
+            "length": 254,
+            "alias": "Saiba_mais",
+            "type": "esriFieldTypeString"
+        },
+        {
+            "modelName": "endere__o",
+            "defaultValue": null,
+            "name": "endere__o",
+            "length": 254,
+            "alias": "Endere__o",
+            "type": "esriFieldTypeString"
+        },
+        {
+            "modelName": "gx_media_l",
+            "defaultValue": null,
+            "name": "gx_media_l",
+            "length": 254,
+            "alias": "gx_media_l",
+            "type": "esriFieldTypeString"
+        }
+    ],
+    "spatialReference": {
+        "wkid": 4326,
+        "latestWkid": 4326
+    },
+    "geometryType": "esriGeometryPoint"
+}
