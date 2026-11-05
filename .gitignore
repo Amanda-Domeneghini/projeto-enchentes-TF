@@ -1,0 +1,10 @@
+# Ambiente virtual
+.venv/
+venv/
+
+# Arquivos temporários Python
+__pycache__/
+*.pyc
+
+# JSON grande gerado pela API
+scripts/dadosapi_cotasdeinundacao.json
