@@ -1,0 +1,79 @@
+{
+  "colunas_totalmente_vazias": [],
+  "outras_colunas_fora_da_tabela_analitica": [
+    "gx_media_l",
+    "configura",
+    "visibility",
+    "tessellate",
+    "icon",
+    "f_rea_prot",
+    "capacidade",
+    "draworder",
+    "end",
+    "endere_o",
+    "local",
+    "street_vie",
+    "descri",
+    "descriptio",
+    "extrude",
+    "f_rea_cont",
+    "begin",
+    "se_o_re",
+    "saiba_mais",
+    "timestamp",
+    "altitudemo"
+  ],
+  "duplicatas_identicas_removidas_do_cadastro_analitico": 0,
+  "escopo": "bases municipais; INCT ainda nao fornecido",
+  "entradas": [
+    "dados/processados/api_casasbombaebap_convertido.json",
+    "dados/originais/dadosapi_cotasinundacao.json"
+  ],
+  "quantidades": {
+    "casas": 24,
+    "intersecoes": 442,
+    "grade": 600
+  },
+  "duplicatas_cotas": {
+    "consultas_identicas_removidas": 0,
+    "intersecoes_identicas_removidas": 0
+  },
+  "ocorrencias": [
+    {
+      "fid": 2,
+      "nome": "CB-3",
+      "tipo": "lacunas_apos_primeira_intersecao",
+      "niveis_m": [
+        3.6
+      ],
+      "tratamento": "preservar e revisar com a fonte; nao interpolar"
+    },
+    {
+      "fid": 4,
+      "nome": "CB-5",
+      "tipo": "lacunas_apos_primeira_intersecao",
+      "niveis_m": [
+        3.8,
+        3.9,
+        4.0
+      ],
+      "tratamento": "preservar e revisar com a fonte; nao interpolar"
+    },
+    {
+      "fid": 20,
+      "nome": "CB-1",
+      "tipo": "sem_intersecao",
+      "tratamento": "manter cota null; ausencia de intersecao nao comprova ausencia de risco"
+    }
+  ],
+  "data_coleta": null,
+  "limitacoes": [
+    "Data exata de coleta nao registrada nas entradas.",
+    "Faixa externa de 3,00 a 5,35 m; nao extrapolar ate 10 m.",
+    "Menor cota e primeira intersecao retornada, nao medida de alagamento real ou falha da bomba.",
+    "Resultados sem intersecao nao certificam seguranca.",
+    "Coordenadas convertidas foram reutilizadas; projecao nao recalculada.",
+    "Sem geometrias, nao e possivel refazer intersecoes ou validar topologia offline.",
+    "Nao ha bairro nestas bases; 5,35 m nao integra a grade de 0,1 m do INCT."
+  ]
+}
