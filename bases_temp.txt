@@ -1,3 +1,0 @@
-BASES DE DADOS:
-https://gis-smamus.portoalegre.rs.gov.br/server/rest/services/Hosted/Casas_de_Bomba___EBAP_210126/FeatureServer/0 
-https://gis-smamus.portoalegre.rs.gov.br/server/rest/services/01_PUBLICACOES/cotas_inundacao_300_535/FeatureServer/0
