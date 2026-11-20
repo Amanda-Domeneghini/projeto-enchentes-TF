@@ -6,6 +6,8 @@ O objetivo deste projeto é propor uma solução interativa, em dashboard, para 
 
 Tela 2: A partir de qual nível de alagamento simulado as casas de bomba da cidade ficam em áreas alagadas?
 
+comando: python -m streamlit run scripts/dashboard2.py^C
+
 ## Equipe
 * Amanda Flores Domeneghini
 * Milena Fontana Bregalda

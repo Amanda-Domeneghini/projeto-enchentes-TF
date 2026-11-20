@@ -6,6 +6,7 @@ import altair as alt
 import pandas as pd
 import streamlit as st
 
+# python -m streamlit run scripts/dashboard2.py^C
 
 st.set_page_config(page_title="Dashboard Bases Externas", layout="wide")
 
