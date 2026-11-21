@@ -4,20 +4,17 @@ import streamlit as st
 # pip install streamlit
 # streamlit run app/app.py
 
-st.title("Dashboard de Enchentes em Porto Alegre — INCT SiMAI")
-st.write("Nomes: Amanda Flores Domeneghini, Milena Fontana Bregalda, Mariana Nunes dos Santos, Karen Cristiane Nascimento")
-
-st.sidebar.title("Navegação")
-tela_selecionada = st.sidebar.radio(
-    "Escolha a tela:", 
-    ["Tela 1", "Tela 2"]
+scripts = Path(__file__).resolve().parent.parent / "scripts"
+pagina = st.navigation(
+    [
+        st.Page(scripts / "dashboard1.py", title="Tela 1 · Impactos da enchente", default=True),
+        st.Page(scripts / "dashboard2.py", title="Tela 2 · Casas de bomba", url_path="dashboard2"),
+    ],
+    expanded=True,
 )
+pagina.run()
 
-if tela_selecionada == "Tela 1":
-    st.header("Tela 1")
-    st.write("Conteúdo da tela 1")
-    
-
-elif tela_selecionada == "Tela 2":
-    st.header("Tela 2")
-    st.write("Conteúdo da tela 2.")
+st.sidebar.caption(
+    "Equipe\n\nAmanda Flores Domeneghini · Milena Fontana Bregalda · "
+    "Mariana Nunes dos Santos · Karen Cristiane Nascimento"
+)

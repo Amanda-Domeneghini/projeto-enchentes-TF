@@ -57,7 +57,9 @@ def exibir_grafico(grafico, altura: Literal["stretch", "content"] = "stretch"):
                 .configure_axis(labelColor="#23404A", titleColor="#23404A",
                                 gridColor="#D8E4E6", domain=False, tickColor="#B8CACE")
                 .configure_legend(labelColor="#23404A", titleColor="#23404A"))
-    st.altair_chart(grafico, theme=None, width="stretch", height=altura)
+    if altura == "stretch":
+        grafico = grafico.properties(height=300)
+    st.altair_chart(grafico, theme=None, use_container_width=True)
 
 
 def mostrar_mapa(casas, niveis, cota):
@@ -82,7 +84,7 @@ def mostrar_mapa(casas, niveis, cota):
             latitude="latitude",
             longitude="longitude",
             color="cor",
-            height="stretch",
+            height=270,
         )
         mostrar_fontes()
 
