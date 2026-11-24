@@ -314,7 +314,10 @@ def configurar_estilo() -> None:
           [data-testid="stVerticalBlockBorderWrapper"] {
             background: #F9FCFC; border-color: #CADDE1; border-radius: 14px;
           }
-          [data-testid="stCaptionContainer"] p { color: #425F69; }
+          [data-testid="stCaptionContainer"] p,
+          [data-testid="stCaptionContainer"] {
+            color: #000000 !important;
+          }
           @media (max-width: 750px) {
             [data-testid="stMainBlockContainer"], .main .block-container {
               padding-inline: .9rem;

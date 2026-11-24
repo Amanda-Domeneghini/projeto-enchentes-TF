@@ -102,7 +102,10 @@ def mostrar_ranking_cotas(resumo):
                 "nome:N",
                 title=None,
                 sort=ranking["nome"].tolist(),
-                axis=alt.Axis(labelLimit=180),
+                axis=alt.Axis(
+                    labelLimit=180,
+                    labelPadding=30,
+                ),
             ),
             tooltip=[
                 alt.Tooltip("nome:N", title="Casa de bombas"),
@@ -208,7 +211,10 @@ def mostrar_matriz_intersecoes(casas, niveis):
                 "nome:N",
                 title=None,
                 sort="ascending",
-                axis=alt.Axis(labelLimit=240),
+                axis=alt.Axis(
+                    labelLimit=240,
+                    labelPadding=30,
+                ),
             ),
             color=alt.Color(
                 "status:N",
