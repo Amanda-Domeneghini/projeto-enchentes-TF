@@ -15,7 +15,8 @@ comando: python -m streamlit run scripts/dashboard2.py^C
 * Karen Cristiane Nascimento
 
 ## Link do dashboard
-A ser desenvolvido.
+https://projeto-enchentes-tf-5p9zgebetvruspngnhm2ev.streamlit.app/
+
 
 ## Como rodar
 A ser desenvolvido.
