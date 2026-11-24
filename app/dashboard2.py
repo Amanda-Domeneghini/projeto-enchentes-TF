@@ -6,9 +6,7 @@ import altair as alt
 import pandas as pd
 import streamlit as st
 
-# python -m streamlit run scripts/dashboard2.py^C
-
-# nota: modificado porque juntamos os 2 dashboards em app.pu
+# nota: modificado porque juntamos os 2 dashboards em app.py
 # st.set_page_config(page_title="Dashboard Bases Externas", layout="wide")
 
 TURQUESA = "#009DAE"
