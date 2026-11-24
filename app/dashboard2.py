@@ -353,6 +353,6 @@ with matriz:
 with comparacao:
     mostrar_comparacao_inct(contagem, simulacao, cota_selecionada)
 
-st.caption("Bases municipais consultadas em 27/10/2026. Datas de coleta sem confirmação. "
+st.caption("Casas de bomba e cotas de inundação da Prefeitura de Porto Alegre: dados coletados em 27/10/2026. "
             "A simulação do INCT chega a 5,30 m na faixa comparada. "
             "A interseção indica possível exposição da instalação.")
