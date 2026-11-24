@@ -445,7 +445,7 @@ def mostrar_tela_1() -> None:
     if not USAR_DADOS_FICTICIOS:
         st.caption("Fonte dos indicadores e gráficos · Simulação do INCT SiMAI, base limpa do projeto.")
 
-
+# nota: modificado porque juntamos os 2 dashboards em app.pu
 if __name__ == "__main__":
-    st.set_page_config(page_title="Impactos da elevação do Guaíba", layout="wide")
+    #st.set_page_config(page_title="Impactos da elevação do Guaíba", layout="wide")
     mostrar_tela_1()

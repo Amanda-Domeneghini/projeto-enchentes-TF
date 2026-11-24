@@ -8,7 +8,8 @@ import streamlit as st
 
 # python -m streamlit run scripts/dashboard2.py^C
 
-st.set_page_config(page_title="Dashboard Bases Externas", layout="wide")
+# nota: modificado porque juntamos os 2 dashboards em app.pu
+# st.set_page_config(page_title="Dashboard Bases Externas", layout="wide")
 
 TURQUESA = "#009DAE"
 VERDE = "#22C55E"

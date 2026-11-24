@@ -1,20 +1,46 @@
-import streamlit as st
 
-# - Pra instalar e rodar:
-# pip install streamlit
+import streamlit as st
+from pathlib import Path
+
+# Para rodar:
 # streamlit run app/app.py
 
-scripts = Path(__file__).resolve().parent.parent / "scripts"
+st.set_page_config(
+    page_title="Dashboard de Enchentes de Porto Alegre",
+    layout="wide"
+)
+
+st.markdown(
+    """
+    <style>
+        [data-testid="stHeader"] {
+            background-color: #DEE9EC;
+        }
+
+        [data-testid="stAppViewContainer"] [data-testid="stHeader"] {
+            background-color: #DEE9EC;
+        }
+    </style>
+    """,
+    unsafe_allow_html=True
+)
+
+pasta_app = Path(__file__).resolve().parent
+
 pagina = st.navigation(
     [
-        st.Page(scripts / "dashboard1.py", title="Tela 1 · Impactos da enchente", default=True),
-        st.Page(scripts / "dashboard2.py", title="Tela 2 · Casas de bomba", url_path="dashboard2"),
+        st.Page(
+            pasta_app / "dashboard1.py",
+            title="Tela 1 - Impactos da elevação do Guaíba",
+            default=True
+        ),
+        st.Page(
+            pasta_app / "dashboard2.py",
+            title="Tela 2 - Casas de bomba e inundação",
+            url_path="dashboard2"
+        ),
     ],
-    expanded=True,
+    position="top"
 )
-pagina.run()
 
-st.sidebar.caption(
-    "Equipe\n\nAmanda Flores Domeneghini · Milena Fontana Bregalda · "
-    "Mariana Nunes dos Santos · Karen Cristiane Nascimento"
-)
+pagina.run()
