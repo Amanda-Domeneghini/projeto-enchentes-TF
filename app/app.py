@@ -2,11 +2,11 @@
 import streamlit as st
 from pathlib import Path
 
-# Para rodar:
+# Para rodar localmente:
 # streamlit run app/app.py
-# Link dashboard 
-# https://projeto-enchentes-tf-5p9zgebetvruspngnhm2ev.streamlit.app/
 
+# Link do dashboard publicado:
+# https://projeto-enchentes-tf-5p9zgebetvruspngnhm2ev.streamlit.app/
 
 st.set_page_config(
     page_title="Dashboard de Enchentes de Porto Alegre",
